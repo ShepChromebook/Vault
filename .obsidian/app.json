@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_data_",
+  "userIgnoreFilters": [
+    "_data_/"
+  ],
+  "propertiesInDocument": "source"
+}

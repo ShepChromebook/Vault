@@ -1,0 +1,15 @@
+// Ignore files that shouldn't be shared
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/types.json
+.obsidian/graph.json
+// Include files that should be shared
+!.obsidian/app.json
+!.obsidian/daily-notes.json
+// Include everything within .obsidian/plugins
+!.obsidian/plugins/
+!.obsidian/plugins/*
+
+!.stignore
+.gitignore/
+.gitignore/*

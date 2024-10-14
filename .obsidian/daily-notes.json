@@ -1,0 +1,6 @@
+{
+  "template": "Daily/Daily Template",
+  "folder": "Daily",
+  "format": "YY-MM.DD-dd",
+  "autorun": true
+}
