@@ -12,11 +12,11 @@ _Constituent democracy: Representative democracy._ Federalism: National governme
 **Because:** colonial experience led them to distrust centralized government, and they wished for each of the states to be self-governing through self representation.
 
 **3 Successes:**
-1. Slavery prohibited in the Ohio river valley / NW territories. NW Ordinance 1787 - created rules on how the territory would be governed.
+1. Winning the revolutionary war, Keeping the country together, [[Treaty of paris 1783]], Britain recognizing them,
+2. Land Ordinance of 1785 ... Organized / surveyed the (old NW) land into sellable plots.
+3. ⭐ NW Ordinance 1787 - creates rules on the administration of the territories & rules for admission as a state. 
+  - Slavery prohibited in the Ohio river valley / NW territories.
   Wanted to be for family farmers, didnt want to compete with large-scale plantation farmers.
-2. vLand Ordinance of 1785
-  Organized / surveyed the (old NW) land into sellable plots.
-3. Winning the revolutionary war, Keeping the country together, [[Treaty of paris 1773]], Britain recognizing them,
 
 ---
 
