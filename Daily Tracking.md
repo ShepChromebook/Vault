@@ -24,9 +24,6 @@
 - [ ] Do that one assignment
 
 # Important
-**Internship SCHS:**
-- [ ] Email Mr Watson, figure out dates
-
 **Internship search:**
 - [ ] research internships
 
@@ -40,7 +37,7 @@
 - [ ] Blood;
 - [x] HRT;
 - [ ] Sign up all AP exams on Oct 7
-- [ ] Sign up SAT
+- [x] Sign up SAT
 
 Skills:
 - Art, drawing
