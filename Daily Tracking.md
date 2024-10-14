@@ -1,6 +1,9 @@
 # School
 **APUSH:**
-- [ ] Ch6 Qs
+- [ ] Ch7 Qs
+- [ ] Ch8 Qs
+- [ ] Purple Packet
+- [ ] Heimler history Unit 3
 
 **AP Calc:**
 - [ ] Get ahead of class by another unit
@@ -28,7 +31,6 @@
 - [ ] research internships
 
 **Programming:**
-- [ ] Neovim
 - [ ] CS50
 - [ ] Micropython HP Prime
 ---
