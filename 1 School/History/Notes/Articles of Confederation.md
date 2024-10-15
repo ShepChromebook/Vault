@@ -14,10 +14,9 @@ _Constituent democracy: Representative democracy._ Federalism: National governme
 **3 Successes:**
 1. Winning the revolutionary war, Keeping the country together, [[Treaty of paris 1783]], Britain recognizing them,
 2. Land Ordinance of 1785 ... Land west of the Appalachians, north of the Ohio River, and east of the Mississippi River was to be divided into 10 separate states.  **Provided system for selling and settling land.**
-3. ⭐ NW Ordinance 1787 - creates rules on the administration of the territories & rules for admission as a state.
+3. ⭐ NW Ordinance 1787 - **creates rules on the administration of the territories & rules for admission as a state.** 
   - Slavery prohibited in the Ohio river valley / NW territories.
   Wanted to be for family farmers, didnt want to compete with large-scale plantation farmers.
-  - Provided 
 
 ---
 
