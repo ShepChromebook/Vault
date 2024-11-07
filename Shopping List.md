@@ -10,5 +10,5 @@ School:
 Me:
 - [ ] Cute masks
 - [ ] Arm sleeves
-- [ ] Sleep socks
+- [ ] Sleep socks / House socks
 - [ ] Head band
