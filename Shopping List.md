@@ -12,3 +12,4 @@ Me:
 - [ ] Arm sleeves
 - [ ] Sleep socks / House socks
 - [ ] Head band
+- [ ] Gloves (for depilatory creams)
