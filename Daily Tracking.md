@@ -1,42 +1,27 @@
 # School
 **APUSH:**
-- [ ] Ch7 Qs
-- [ ] Ch8 Qs
-- [ ] Purple Packet
-- [ ] Heimler history Unit 3
+- [ ] Heimler history units
+- [ ] Chapter Qs
 
 **AP Calc:**
-- [ ] Get ahead of class by another unit
-- [ ] Review factoring
+- [ ] Get ahead
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
-- [ ] Memorize ...
 - [ ] Memorize rubric
 - [ ] Extra essay misogynists~
 
 **AP Phys:**
+- [ ] Get ahead
 - [ ] See previous FRQs
-- [ ] Memorize Kinematic EQs
 
 **JP IV:**
 - [ ] Go through every link
-- [ ] Do that one assignment
 
-# Important
-**Internship search:**
-
-**Programming:**
-- [ ] CS50
-- [ ] Micropython HP Prime
 ---
 # Other
 **PARENT FOLLOW UP**:
-- [x] Dermatologist;
 - [ ] Blood;
-- [x] HRT;
-- [ ] Sign up all AP exams on Oct 7
-- [x] Sign up SAT
 
 Skills:
 - Art, drawing
@@ -46,7 +31,3 @@ Skills:
 - Audio processing
 - Image processing
 - Video - hano
-
-PE 184: November
-- [ ] Journal Nov 10, 17, 24
-- [ ] Final paper Nov 27
