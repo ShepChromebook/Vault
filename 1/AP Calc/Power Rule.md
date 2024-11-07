@@ -13,9 +13,10 @@ $$
 $$f'(x) = a^x \displaystyle \lim_{h \rightarrow 0} \dfrac{a^h -1}{h}$$
 $$f(x) = a^x = \big(e^{\ln{a}}\big)^x = e^{x \ln{a}}$$
 $$f'(x) = e^{x \ln{a}} (\ln{a})= a^x \ln{a}$$
-
-
-
+$$
+\boxed{\frac{d}{dx} (e^x) = e^x}
+\boxed{\frac{d}{dx} (a^x) = a^x \ln a}
+$$
 
 
 
