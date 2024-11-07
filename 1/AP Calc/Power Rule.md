@@ -1,18 +1,15 @@
 for $x^n$:
 $$p(x)=a(x-h)^n+k$$
 $$p'(x)=n*a(x-h)^{n-1}$$
-
 $$\frac{d}{dx}ax^n=a*nx^{n-1}$$
-
 sin
 cos
 -sin
 -cos
-
-
-
-
-
+$$f(x)=a^x$$
+$$
+f′(x)​=h→0lim​hf(x+h)−f(x)​=h→0lim​hax+h−ax​=h→0lim​haxah−ax​=h→0lim​hax(ah−1)​.​
+$$
 
 
 
@@ -55,7 +52,6 @@ $$
 $$\lim_{x\to c}\frac{f(x)-f(c)}{x-c}$$
 $\Delta x$ form
 $$\lim_{x\to \Delta x}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$
-$h$ form
 **forward difference** quotient
 $$\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}$$
 **backward difference** quotient
