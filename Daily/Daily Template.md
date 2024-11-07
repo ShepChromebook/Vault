@@ -1,5 +1,5 @@
 - [ ] Wash face, Put on sunscreen, Jojoba oil, Mouthwash
-- [ ] Bring water bottle
+- [ ] Fill up water bottle
 **How are you feeling?**
 
 **How's Ari?**
