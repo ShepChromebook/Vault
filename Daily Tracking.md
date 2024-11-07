@@ -25,7 +25,6 @@
 
 # Important
 **Internship search:**
-- [ ] research internships
 
 **Programming:**
 - [ ] CS50
