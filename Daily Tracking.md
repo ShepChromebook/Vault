@@ -39,3 +39,6 @@ Skills:
 
 - Video - hano
 - Music
+
+Skiing
+- PSI Certified
