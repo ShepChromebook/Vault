@@ -7,6 +7,8 @@
 **AP Calc:**
 - [ ] COMPLETE EVERYTHING
 - [ ] integrals
+- [ ] concavity / first, second derivatives
+- [ ] Power Rule:
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
