@@ -6,5 +6,6 @@
   "userIgnoreFilters": [
     "_data_/"
   ],
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "vimMode": true
 }
