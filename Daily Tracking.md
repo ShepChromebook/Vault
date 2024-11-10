@@ -5,7 +5,10 @@
 - [ ] Chapter Qs
 
 **AP Calc:**
-- [ ] Get ahead
+- [ ] COMPLETE EVERYTHING
+- [ ] integrals
+- [ ] concavity / first, second derivatives
+- [ ] Power Rule:
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
@@ -27,8 +30,15 @@
 Skills:
 - Art, drawing
 - Pixel art
+
 - Writing on a class whiteboard
 - HandWriting
+
 - Audio processing
 - Image processing
+
 - Video - hano
+- Music
+
+Skiing
+- PSI Certified
