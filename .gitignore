@@ -4,17 +4,12 @@
 .obsidian/types.json
 .obsidian/graph.json
 
-# Ignore everything within .obsidian/ 
-#####.obsidian/*
+.obsidian/plugins/obsidian-git/data.json
 
 # Include files that should be shared
 !.obsidian/app.json
 !.obsidian/daily-notes.json
 
-# Include everything within .obsidian/plugins
-!.obsidian/plugins/
-!.obsidian/plugins/*
-!.obsidian/plugins/**
 
 # Syncthing folder marker
 .stfolder/
