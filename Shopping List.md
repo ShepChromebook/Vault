@@ -15,3 +15,5 @@ Me:
 - [ ] Gloves (for depilatory creams)
 - [ ] More sheep stuff
 - [ ] PANTS
+
+- [ ] hat/beanie?
