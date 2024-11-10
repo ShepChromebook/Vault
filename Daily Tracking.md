@@ -1,11 +1,9 @@
-
 # School
 **APUSH:**
 - [ ] Heimler history units
 - [ ] Chapter Qs
 
 **AP Calc:**
-- [ ] COMPLETE EVERYTHING
 - [ ] integrals
 - [ ] concavity / first, second derivatives
 - [ ] Power Rule:
@@ -16,7 +14,6 @@
 - [ ] Extra essay misogynists~
 
 **AP Phys:**
-- [ ] Get ahead
 - [ ] See previous FRQs
 
 **JP IV:**
