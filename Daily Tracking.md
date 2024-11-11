@@ -23,6 +23,8 @@
 # Other
 **PARENT FOLLOW UP**:
 - [ ] Blood;
+- [ ] LAPTOP
+- [ ] 
 
 Skills:
 - Art, drawing
