@@ -1,4 +1,6 @@
 Overall count: 
+# Saturday, October 19th
+I drove 25 minutes to 24hr fitness during the day
 # Sunday, October 6th
 I drove 60 minutes with my dad at might from home, to school, to Hamlin parking lot, back home, then from home to QFC then back home. 
 I drove the entire way with no switching. 

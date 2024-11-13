@@ -20,6 +20,8 @@ A\approx{\Delta{x}}(\frac{y_1}{2}+y_2+y_3+...+y_8+\frac{y_9}{2})
 $$
 
 
+
+
 ---
 $[a , b]$
 $n =$ # of rects,

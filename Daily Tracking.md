@@ -1,53 +1,43 @@
 # School
 **APUSH:**
-- [ ] Ch7 Qs
-- [ ] Ch8 Qs
-- [ ] Purple Packet
-- [ ] Heimler history Unit 3
+- [ ] Heimler history units
+- [ ] Chapter Qs
 
 **AP Calc:**
-- [ ] Get ahead of class by another unit
-- [ ] Review factoring
+- [ ] integrals
+- [ ] concavity / first, second derivatives
+- [ ] Power Rule:
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
-- [ ] Memorize ...
 - [ ] Memorize rubric
 - [ ] Extra essay misogynists~
 
 **AP Phys:**
 - [ ] See previous FRQs
-- [ ] Memorize Kinematic EQs
 
 **JP IV:**
 - [ ] Go through every link
-- [ ] Do that one assignment
 
-# Important
-**Internship search:**
-- [ ] research internships
-
-**Programming:**
-- [ ] CS50
-- [ ] Micropython HP Prime
 ---
 # Other
 **PARENT FOLLOW UP**:
-- [x] Dermatologist;
 - [ ] Blood;
-- [x] HRT;
-- [ ] Sign up all AP exams on Oct 7
-- [x] Sign up SAT
+- [ ] LAPTOP
+- [ ] 
 
 Skills:
 - Art, drawing
 - Pixel art
+
 - Writing on a class whiteboard
 - HandWriting
+
 - Audio processing
 - Image processing
-- Video - hano
 
-PE 184: November
-- [ ] Journal Nov 10, 17, 24
-- [ ] Final paper Nov 27
+- Video - hano
+- Music
+
+Skiing
+- PSI Certified

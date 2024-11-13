@@ -8,7 +8,7 @@ tags:
 
 1619 [[Virginia House of Burgesses]]
 
-	[[First African Slaves Brought to Virginia]]
+$\hspace{1cm}$ [[First African Slaves Brought to Virginia]]
 
 1620 [[Mayflower Compact]]
 
@@ -18,9 +18,9 @@ tags:
 
 1636 [[Rhode Island founded]]
 
-	[[Harvard College]]
+$\hspace{1cm}$ [[Harvard College]]
 
-	[[Puritan-Pequot War]]
+$\hspace{1cm}$ [[Puritan-Pequot War]]
 
 1639 [[Fundamental Orders of Connecticut]]
 
